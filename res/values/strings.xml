@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Seja bem vindo ao RecifeCam!</string>
+    <string name="app_name">RecifeCam</string>
+    
+    <string name="nao_foi_possivel_contactar_servidor">Não foi possível contactar o servidor.\nVerifique a conexão de internet</string>
+    <string name="url_cameras">http://www.recife.pe.gov.br/transito/ImagensCTTU/jpg/</string>
+    <string name="carregando_imagem">Carregando imagem...</string>
+    <string name="clique_para_mapa">Clique na imagem para visualizar o mapa</string>
+    <string name="exibir_mapa">Exibir Mapa</string> 
+    <string name="mapa">Mapa</string> 
+    <string name="selecione_camera">Selecione a câmera a adicionar</string> 
+        
+    
+    <!-- Cameras registradas -->
+    <string name="descricao_camera_1">Av Abdias de Carvalho</string>
+    <string name="descricao_camera_2">Av Afonso Olindense (Sentido Praça da Várzea)</string>
+    <string name="descricao_camera_3">Av Afonso Olindense (Sentido Caxangá)</string>
+    <string name="descricao_camera_4">Av Alfredo Lisboa</string>
+    <string name="descricao_camera_5">Av Boa Viagem (Pq. D. Lindú)</string>
+    <string name="descricao_camera_6">Av Boa Viagem (Pólo Pina)</string>
+    <string name="descricao_camera_7">Av Boa Viagem (Terceiro Jardim)</string>
+    <string name="descricao_camera_8">Av Conde da Boa Vista x Rua do Hospicio</string>
+    <string name="descricao_camera_9">Av Eng Domingos Ferreira (Próx Merc. Boa Viagem)</string>
+    <string name="descricao_camera_10">Av Eng Domingos Ferreira (Próx Pça Porto da Cidade)</string>
+    <string name="descricao_camera_11">Av General San Martin (Sentido Jd São Paulo)</string>
+    <string name="descricao_camera_12">Av General San Martin (Próx a Lombada Eletrônica)</string>
+    <string name="descricao_camera_13">Av Gov Agamenon Magalhães (Próx DRT)</string>
+    <string name="descricao_camera_14">Av Gov Agamenon Magalhães (Próx a Reitoria da UPE)</string>
+    <string name="descricao_camera_15">Av Herculano Bandeira (Igreja do Pina)</string>
+    <string name="descricao_camera_16">Av Jequitinhonha (Próx Rua Barão de Souza Leão)</string>
+    <string name="descricao_camera_17">Av Mascarenhas de Morais (Próx Aeroporto)</string>
+    <string name="descricao_camera_18">Av Mauricio de Nassau (Paralela Caxangá) 1</string>
+    <string name="descricao_camera_19">Av Mauricio de Nassau (Paralela Caxangá) 2</string>
+    <string name="descricao_camera_20">Av Recife (Próx Lombada Eletrônica)</string>
+    <string name="descricao_camera_21">Av Sul (Próx Viaduto Joana Bezerra)</string>
+    <string name="descricao_camera_22">Dom Bosco x Conde da Boa Vista</string>
+    <string name="descricao_camera_23">Ponte do Pina (Sentido Centro)</string>
+    <string name="descricao_camera_24">Rua Madre de Deus (Sentido Cais de Santa Rita)</string>
+    
+    <!-- url das cameras  -->
+    <string name="nome_camera_1">cam4_#A.jpg?sid=717481361</string>
+    <string name="nome_camera_2">cam15_#A.jpg?sid=1029199429</string>
+    <string name="nome_camera_3">cam15_#A.jpg?sid=1029199429</string>
+    <string name="nome_camera_4">cam12_#A.jpg?sid=611250119</string>
+    <string name="nome_camera_5">cam33_#A.jpg?sid=1983334730</string>
+    <string name="nome_camera_6">cam9_#A.jpg?sid=1281407705</string>
+    <string name="nome_camera_7">cam3_#A.jpg?sid=1736617476</string>
+    <string name="nome_camera_8">cam42_#A.jpg?sid=1725826955</string>
+    <string name="nome_camera_9">cam39_#A.jpg?sid=1296373080</string>
+    <string name="nome_camera_10">cam18_#A.jpg?sid=1158416850</string>
+    <string name="nome_camera_11">cam35_#A.jpg?sid=1531492747</string>
+    <string name="nome_camera_12">cam13_#A.jpg?sid=2000664737</string>
+    <string name="nome_camera_13">cam40_#A.jpg?sid=2091398643</string>
+    <string name="nome_camera_14">cam2_#A.jpg?sid=1722429133</string>
+    <string name="nome_camera_15">cam8_#A.jpg?sid=1270167844</string>
+    <string name="nome_camera_16">cam10_#A.jpg?sid=1417502087</string>
+    <string name="nome_camera_17">cam5_#A.jpg?sid=15805780</string>
+    <string name="nome_camera_18">cam36_#A.jpg?sid=1262908021</string>
+    <string name="nome_camera_19">cam14_#A.jpg?sid=1525522627</string>
+    <string name="nome_camera_20">cam6_#A.jpg?sid=2102052322</string>
+    <string name="nome_camera_21">cam11_#A.jpg?sid=354049363</string>
+    <string name="nome_camera_22">cam43_#A.jpg?sid=1793840819</string>
+    <string name="nome_camera_23">cam1_#A.jpg?sid=886785747</string>
+    <string name="nome_camera_24">cam17_#A.jpg?sid=2055300483</string>
+    
+    <!-- coordenadas das cameras -->
+    <string name="coordenadas_camera_1">-8.064923,-34.937639</string>
+    <string name="coordenadas_camera_2">0,0</string>
+    <string name="coordenadas_camera_3">0,0</string>
+    <string name="coordenadas_camera_4">-8.063906,-34.871708</string>
+    <string name="coordenadas_camera_5">-8.140903,-34.903167</string>
+    <string name="coordenadas_camera_6">-8.091830,-34.882010</string>
+    <string name="coordenadas_camera_7">-8.108851,-34.888587</string>
+    <string name="coordenadas_camera_8">-8.060693,-34.884089</string>
+    <string name="coordenadas_camera_9">-8.130548,-34.902046</string>
+    <string name="coordenadas_camera_10">-8.105235,-34.889545</string>
+    <string name="coordenadas_camera_11">-8.067130,-34.927726</string>
+    <string name="coordenadas_camera_12">-8.067457,-34.927828</string>
+    <string name="coordenadas_camera_13">-8.038557,-34.876777</string>
+    <string name="coordenadas_camera_14">-8.042748,-34.884652</string>
+    <string name="coordenadas_camera_15">-8.088776,-34.885329</string>
+    <string name="coordenadas_camera_16">-8.130288,-34.902414</string>
+    <string name="coordenadas_camera_17">-8.129985,-34.915844</string>
+    <string name="coordenadas_camera_18">-8.038950,-34.930306</string>
+    <string name="coordenadas_camera_19">-8.039178,-34.929947</string>
+    <string name="coordenadas_camera_20">-8.098992,-34.928337</string>
+    <string name="coordenadas_camera_21">-8.076850,-34.894729</string>
+    <string name="coordenadas_camera_22">-8.055854,-34.895342</string>
+    <string name="coordenadas_camera_23">-8.080864,-34.891039</string>
+    <string name="coordenadas_camera_24">-8.063549,-34.873587</string>
+    
+</resources>

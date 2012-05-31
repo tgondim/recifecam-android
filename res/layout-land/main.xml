@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="thgg.android.recifeCam" android:id="@+id/llRecifeCamActivity1"
+	android:layout_width="fill_parent" android:layout_height="fill_parent" android:orientation="vertical">
+
+	<TextView android:layout_width="fill_parent"
+		android:layout_height="fill_parent" android:text="@string/hello"
+		android:layout_weight="16" />
+
+	<LinearLayout android:id="@+id/llRecifeCamActivity2"
+		android:layout_width="fill_parent" android:layout_height="fill_parent"
+		android:layout_weight="1" android:orientation="vertical">
+
+		<ListView android:id="@+id/lvCameras" android:layout_height="fill_parent"
+			android:layout_width="fill_parent" android:layout_weight="1"/>
+
+		<com.admob.android.ads.AdView 
+			android:id="@+id/adMob1" 
+			android:layout_height="fill_parent" 
+			android:layout_width="fill_parent" 
+			android:layout_weight="6"
+			app:backgroundColor="#000000"
+          	app:primaryTextColor="#FFFFFF"
+          	app:secondaryTextColor="#CCCCCC"
+         	app:keywords="Android recife camera transito"/>
+<!--         	app:testMode="true" />-->
+
+	</LinearLayout>
+	
+</LinearLayout>
+
